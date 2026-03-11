@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👩‍💻 Conocimientos
 
-<!--
-**anabellgonzalezfuenmayor1-tech/anabellgonzalezfuenmayor1-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Joven programadora de **18 años** con conocimientos en los siguientes **lenguajes de programación**:
 
-Here are some ideas to get you started:
+- <code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code> Python  
+- <code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/></code> C#
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Analista Junior
+
+Con conocimientos en **DAX** y en las siguientes herramientas de análisis de datos:
+
+- Power BI  
+- Power Pivot  
+- Power Query  
+- Excel  
+
+---
+
+### 🗄️ Bases de Datos
+
+Conocimientos en **SQL**, aplicado en motores de bases de datos como:
+
+- <code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code> MySQL  
