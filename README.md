@@ -26,11 +26,14 @@ Soy **Ana**, **Analista de Datos Junior** y **desarrolladora de software en form
 
 ```python
 ana = {
-    "rol":        "Analista de Datos Jr. & Desarrolladora en formación",
-    "desarrollo": ["C#", "Windows Forms", "Blazor", "Python", "Dart", "Flutter"],
-    "datos":      ["SQL", "MySQL", "SQL Server", "Excel", "Power Query", "Power Pivot", "Power BI", "DAX"],
-    "proceso":    ["limpiar", "transformar", "modelar", "analizar", "visualizar"],
-    "lema":       "En constante aprendizaje 🌸",
+    "rol": "Analista de Datos Jr. & Desarrolladora en formación",
+    "desarrollo": ["C#", "Windows Forms", "Blazor",
+                   "Python", "Dart", "Flutter"],
+    "datos": ["SQL", "MySQL", "SQL Server", "Excel",
+              "Power Query", "Power Pivot", "Power BI", "DAX"],
+    "proceso": ["limpiar", "transformar", "modelar",
+                "analizar", "visualizar"],
+    "lema": "En constante aprendizaje 🌸",
 }
 ```
 
