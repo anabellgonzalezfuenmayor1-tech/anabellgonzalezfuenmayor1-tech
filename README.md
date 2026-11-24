@@ -10,7 +10,7 @@
 
 </div>
 
-![](./assets/divider-space.svg)
+![](./assets/divider-stars.svg)
 
 ## 🌌 Sobre mí · About me
 
@@ -35,7 +35,7 @@ ana = {
 
 > 🌠 *"Cada día hay algo nuevo por aprender; puedes quedarte donde estás o seguir avanzando."*
 
-![](./assets/divider-space.svg)
+![](./assets/divider-stars.svg)
 
 ## 🪐 Tecnologías · Tech stack
 
@@ -51,7 +51,7 @@ ana = {
 
 [![Git, GitHub, VS Code, Visual Studio, Android Studio](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio&theme=dark)](https://skillicons.dev)
 
-![](./assets/divider-space.svg)
+![](./assets/divider-stars.svg)
 
 ## 📡 Estadísticas · Stats
 
@@ -70,6 +70,6 @@ ana = {
 </tr>
 </table>
 
-![Thank you for visiting](./assets/footer-space.svg)
+![Thank you for visiting](./assets/footer-galaxy.svg)
 
 </div>
