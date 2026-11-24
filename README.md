@@ -1,6 +1,6 @@
 <div align="center">
 
-![Ana Gonzalez — stars, constellations and a black hole](./assets/banner.svg)
+![Ana Gonzalez — stars, constellations and a black hole](./assets/banner-galaxy.svg)
 
 [![Typing animation](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2800&pause=900&color=8FD3FF&center=true&vCenter=true&width=640&lines=Hello%2C+I'm+Ana+%E2%9C%A6;Data+Analyst+Jr.+%F0%9F%93%8A;Software+developer+in+training;C%23+%C2%B7+Python+%C2%B7+Dart+%C2%B7+SQL+%C2%B7+Power+BI;Turning+data+into+solutions+%F0%9F%9A%80)](https://github.com/anabellgonzalezfuenmayor1-tech)
 
