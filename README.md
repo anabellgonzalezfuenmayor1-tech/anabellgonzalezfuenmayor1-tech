@@ -1,6 +1,6 @@
 <div align="center">
 
-![Ana Gonzalez — stars, constellations and a black hole](./assets/banner-galaxy.svg)
+![Ana Gonzalez — stars, constellations and a black hole](./assets/banner-space.svg)
 
 [![Typing animation](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2800&pause=900&color=8FD3FF&center=true&vCenter=true&width=640&lines=Hello%2C+I'm+Ana+%E2%9C%A6;Data+Analyst+Jr.+%F0%9F%93%8A;Software+developer+in+training;C%23+%C2%B7+Python+%C2%B7+Dart+%C2%B7+SQL+%C2%B7+Power+BI;Turning+data+into+solutions+%F0%9F%9A%80)](https://github.com/anabellgonzalezfuenmayor1-tech)
 
@@ -10,7 +10,7 @@
 
 </div>
 
-![](./assets/divider.svg)
+![](./assets/divider-space.svg)
 
 ## 🌌 Sobre mí · About me
 
@@ -35,7 +35,7 @@ ana = {
 
 > 🌠 *"Cada día hay algo nuevo por aprender; puedes quedarte donde estás o seguir avanzando."*
 
-![](./assets/divider.svg)
+![](./assets/divider-space.svg)
 
 ## 🪐 Tecnologías · Tech stack
 
@@ -51,7 +51,7 @@ ana = {
 
 [![Git, GitHub, VS Code, Visual Studio, Android Studio](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio&theme=dark)](https://skillicons.dev)
 
-![](./assets/divider.svg)
+![](./assets/divider-space.svg)
 
 ## 📡 Estadísticas · Stats
 
@@ -70,6 +70,6 @@ ana = {
 </tr>
 </table>
 
-![Thank you for visiting](./assets/footer.svg)
+![Thank you for visiting](./assets/footer-space.svg)
 
 </div>
