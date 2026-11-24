@@ -57,12 +57,18 @@ ana = {
 
 <div align="center">
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=anabellgonzalezfuenmayor1-tech&show_icons=true&bg_color=0a0b25&title_color=8fd3ff&icon_color=c9a6ff&text_color=e6e9ff&hide_border=true&rank_icon=github&locale=es)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=anabellgonzalezfuenmayor1-tech&layout=compact&bg_color=0a0b25&title_color=8fd3ff&text_color=e6e9ff&hide_border=true&langs_count=6&locale=es)
-
-![Racha de contribuciones](https://streak-stats.demolab.com/?user=anabellgonzalezfuenmayor1-tech&background=0A0B25&ring=8FD3FF&fire=F3C77A&currStreakLabel=8FD3FF&sideLabels=E6E9FF&currStreakNum=E6E9FF&sideNums=E6E9FF&dates=C9A6FF&stroke=3B2F7A&hide_border=true&locale=es)
-
-![Gráfica de actividad](https://github-readme-activity-graph.vercel.app/graph?username=anabellgonzalezfuenmayor1-tech&bg_color=0a0b25&color=e6e9ff&line=8fd3ff&point=f3c77a&area=true&area_color=7c5cff&hide_border=true&custom_title=Actividad%20de%20contribuciones)
+<table>
+<tr>
+<td width="50%" align="center"><img src="https://github-readme-stats.vercel.app/api?username=anabellgonzalezfuenmayor1-tech&show_icons=true&bg_color=0a0b25&title_color=8fd3ff&icon_color=c9a6ff&text_color=e6e9ff&hide_border=true&rank_icon=github&locale=es" width="100%" alt="Estadísticas de GitHub"></td>
+<td width="50%" align="center"><img src="https://streak-stats.demolab.com/?user=anabellgonzalezfuenmayor1-tech&background=0A0B25&ring=8FD3FF&fire=F3C77A&currStreakLabel=8FD3FF&sideLabels=E6E9FF&currStreakNum=E6E9FF&sideNums=E6E9FF&dates=C9A6FF&stroke=3B2F7A&hide_border=true&locale=es" width="100%" alt="Racha de contribuciones"></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabellgonzalezfuenmayor1-tech&layout=compact&card_width=990&bg_color=0a0b25&title_color=8fd3ff&text_color=e6e9ff&hide_border=true&langs_count=6&locale=es" width="100%" alt="Lenguajes más usados"></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=anabellgonzalezfuenmayor1-tech&bg_color=0a0b25&color=e6e9ff&line=8fd3ff&point=f3c77a&area=true&area_color=7c5cff&hide_border=true&custom_title=Actividad%20de%20contribuciones" width="100%" alt="Gráfica de actividad"></td>
+</tr>
+</table>
 
 ![Thank you for visiting](./assets/footer.svg)
 
